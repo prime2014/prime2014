@@ -1,6 +1,6 @@
 <!-- HEADER BANNER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hi,%20I'm%20[Your%20Name]👋&fontSize=40&animation=fadeIn" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hi,%20I'm%20 Prime Omondi👋&fontSize=40&animation=fadeIn" alt="Header Banner" />
 </p>
 
 <!-- TYPING EFFECT SUBHEAD -->
