@@ -66,7 +66,7 @@ Feel free to reach out via any of the channels below to talk systems architectur
   <a href="https://www.linkedin.com/in/prime-omondi-tech/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://YOUR_BLOG_OR_PORTFOLIO.com" target="_blank">
+  <a href="https://prime-tech-blitz.hashnode.dev/" target="_blank">
     <img src="https://img.shields.io/badge/Technical_Blog-FF6C37?style=for-the-badge&logo=blogger&logoColor=white" alt="Blog" />
   </a>
   <a href="mailto:omondiprime@gmail.com">
