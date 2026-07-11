@@ -43,6 +43,16 @@ A snapshot of what I'm designing and deploying right now:
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prime2014&layout=compact&theme=tokyonight" alt="Top Languages" width="48%" />
 </p>
 
+---
+
+### ✍️ Recent Engineering Insights
+I periodically write in-depth articles on Systems Engineering, Low-Level performance optimizations, and Distributed Systems. Here are my latest posts:
+
+* [Demystifying C++20 Coroutines: Low-Level Stack-to-Heap Mechanics](https://prime-tech-blitz.hashnode.dev/c-coroutine-design) - A deep dive into RAII-native coroutine handles, exploring the move constructor "baton pass" trick that prevents premature heap destruction.
+
+
+---
+
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=prime2014&theme=tokyonight" alt="GitHub Streak" width="98%" />
 </p>
