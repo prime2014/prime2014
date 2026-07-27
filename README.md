@@ -39,8 +39,8 @@ A snapshot of what I'm designing and deploying right now:
 
 ### 📊 GitHub Metrics & Consistency
 <p align="center">
-  <img src="https://github-readme-stats-epdl18gcs-prime2015.vercel.app/api?username=prime2014&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats-epdl18gcs-prime2015.vercel.app/api/top-langs/?username=prime2014&layout=compact&theme=tokyonight" alt="Top Languages" width="48%" />
+  <img src="./generated/github-readme-stats.svg" alt="GitHub Stats" width="48%" />
+  <img src="./generated/top-langs.svg" alt="Top Languages" width="48%" />
 </p>
 
 ---
