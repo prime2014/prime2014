@@ -3,18 +3,32 @@ name: Generate GitHub Readme Stats
 on:
   schedule:
     - cron: '0 */12 * * *' # Runs every 12 hours
-  workflow_dispatch: # Allows manual trigger
+  workflow_dispatch:       # Allows manual trigger
 
 jobs:
   publish:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write      # Grants the action permission to push commits
     steps:
       - uses: actions/checkout@v4
-      - uses: anuraghazra/github-readme-stats@main
+
+      - name: Generate Stats Card
+        uses: stats-organization/github-readme-stats-action@v2
         with:
+          card: stats
+          options: username=prime2014&show_icons=true&theme=tokyonight&count_private=true
+          path: generated/github-readme-stats.svg
           token: ${{ secrets.GITHUB_TOKEN }}
-          username: prime2014
-          output-folder: generated
+
+      - name: Generate Top Languages Card
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: top-langs
+          options: username=prime2014&layout=compact&theme=tokyonight
+          path: generated/top-langs.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
       - name: Commit generated cards
         run: |
           git config user.name "github-actions[bot]"
