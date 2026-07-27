@@ -39,15 +39,11 @@ A snapshot of what I'm designing and deploying right now:
 
 ### 📊 GitHub Metrics & Consistency
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=prime2014&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prime2014&layout=compact&theme=tokyonight" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats-epdl18gcs-prime2015.vercel.app/api?username=prime2014&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats-epdl18gcs-prime2015.vercel.app/api/top-langs/?username=prime2014&layout=compact&theme=tokyonight" alt="Top Languages" width="48%" />
 </p>
 
 ---
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=prime2014&theme=tokyonight" alt="GitHub Streak" width="98%" />
-</p>
 
 ### ✍️ Recent Engineering Insights
 I periodically write in-depth articles on Systems Engineering, Low-Level performance optimizations, and Distributed Systems. Here are my latest posts:
