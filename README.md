@@ -50,6 +50,8 @@ I periodically write in-depth articles on Systems Engineering, Low-Level perform
 
 * [Demystifying C++20 Coroutines: Low-Level Stack-to-Heap Mechanics](https://prime-tech-blitz.hashnode.dev/c-coroutine-design) - A deep dive into RAII-native coroutine handles, exploring the move constructor "baton pass" trick that prevents premature heap destruction.
 
+* [Hardware Demystified: How the MMU and TLB Translate Your Code's Memory](https://prime-tech-blitz.hashnode.dev/hardware-demystified-how-the-mmu-and-tlb-translate-your-code-s-memory) - An insight into memory access pipeline, using TLB to save time and the data structures involved in bookkeepping of memory access
+
 
 ---
 
