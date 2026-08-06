@@ -52,6 +52,8 @@ I periodically write in-depth articles on Systems Engineering, Low-Level perform
 
 * [Hardware Demystified: How the MMU and TLB Translate Your Code's Memory](https://prime-tech-blitz.hashnode.dev/hardware-demystified-how-the-mmu-and-tlb-translate-your-code-s-memory) - An insight into memory access pipeline, using TLB to save time and the data structures involved in bookkeepping of memory access
 
+* [Virtual Memory, TLB Bottlenecks, and the Case for HugePages](https://prime-tech-blitz.hashnode.dev/virtual-memory-tlb-bottlenecks-and-the-case-for-hugepages) - A deep dive into the bottlenecks caused by TLBs, and arguing out a case for Hugepages.
+
 
 ---
 
