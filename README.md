@@ -18,6 +18,8 @@ A snapshot of what I'm designing and deploying right now:
 *   **[Project Name 1]** - A high-performance database engine utilizing asynchronous I/O (`io_uring`) and custom B+ Tree indexing.
 *   **[Project Name 2]** - Distributed orchestration telemetry targeting low-latency message queues.
 *   **[Project Name 3]** - Embedded IoT processing boards using digital signal processing modules.
+*   **[Project Name 4]** - File Forensics: File recovery/ Hard Drive recovery software
+*   **[Project Name 5]** - CDC - (Change data Capture) - An ETL tool that triggers downstream services when data in a database changes
 
 ---
 
