@@ -56,6 +56,8 @@ I periodically write in-depth articles on Systems Engineering, Low-Level perform
 
 * [Virtual Memory, TLB Bottlenecks, and the Case for HugePages](https://prime-tech-blitz.hashnode.dev/virtual-memory-tlb-bottlenecks-and-the-case-for-hugepages) - A deep dive into the bottlenecks caused by TLBs, and arguing out a case for Hugepages.
 
+* [How Go's sync.Pool Lowers Garbage Collection Churn](https://prime-tech-blitz.hashnode.dev/how-go-s-sync-pool-lowers-garbage-collection-churn) - A deep dive into Go's Garbage Collector and memory sync pools to efficiently reuse objects.
+
 
 ---
 
